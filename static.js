@@ -1,1 +1,94 @@
-var i=b;(function(c,d){var h=b,e=c();while(!![]){try{var f=-parseInt(h(0x205))/(0x1ab8+-0x6e*0x3d+-0x81)*(-parseInt(h(0x200))/(0x4f*-0x2f+-0x20d9+0x2f5c))+parseInt(h(0x1f3))/(0xa95*-0x2+0x7ff+0xd2e)*(-parseInt(h(0x20e))/(0x9*0x448+0x22ec+0x92e*-0x8))+parseInt(h(0x1f0))/(0x26*0x103+-0x3*-0x251+-0x2d60)+parseInt(h(0x20b))/(-0x1*-0x7+-0x16cf+0x16ce)+-parseInt(h(0x219))/(0x186d+-0x40*0x53+-0x3a6*0x1)+-parseInt(h(0x20d))/(0x199b+-0x17a8+-0x1*0x1eb)+parseInt(h(0x22a))/(-0x20c3+-0x2*0xe59+0x3d7e)*(parseInt(h(0x20f))/(-0x154e+-0x453*0x7+0x1*0x339d));if(f===d)break;else e['push'](e['shift']());}catch(g){e['push'](e['shift']());}}}(a,0x4b6c3+-0x4a921+0x2b16c),window[i(0x1fa)+i(0x1f7)]={'pj_data_top':[{'var':i(0x22d)+'p','nd':![],'time':i(0x1fc)+i(0x228),'url':i(0x204)+i(0x212)+i(0x211)+i(0x208)+i(0x22c)+i(0x1f5)+i(0x1fe)}],'erer':[{'var':i(0x223)+i(0x21e),'nd':![],'time':i(0x22b)+i(0x1fb),'url':i(0x204)+i(0x212)+i(0x211)+i(0x208)+i(0x22c)+i(0x21d)+i(0x214)}],'net_mg':[{'var':i(0x1f8)+i(0x210),'nd':![],'time':i(0x1f4)+i(0x221),'url':i(0x204)+i(0x212)+i(0x211)+i(0x208)+i(0x22c)+i(0x20c)+i(0x209)}],'net_qq':[{'var':i(0x217)+i(0x202),'nd':![],'time':i(0x1f4)+i(0x21b),'url':i(0x204)+i(0x212)+i(0x211)+i(0x208)+i(0x22c)+i(0x1f6)+i(0x1fd)}],'ttvd':[{'var':i(0x1f9),'nd':![],'time':i(0x1fc)+i(0x1ef),'url':i(0x204)+i(0x212)+i(0x211)+i(0x208)+i(0x22c)+i(0x218)},{'var':i(0x216),'nd':![],'time':i(0x1fc)+i(0x226),'url':i(0x204)+i(0x212)+i(0x211)+i(0x208)+i(0x22c)+i(0x21c)},{'var':i(0x1ec),'nd':![],'time':i(0x1fc)+i(0x20a),'url':i(0x204)+i(0x212)+i(0x211)+i(0x208)+i(0x22c)+i(0x222)}],'net_iqy':[{'var':i(0x213),'nd':![],'time':i(0x22b)+i(0x1f2),'url':i(0x204)+i(0x212)+i(0x211)+i(0x208)+i(0x22c)+i(0x21f)+i(0x1ed)}],'lz_zy':[{'var':i(0x227),'nd':!![],'time':i(0x1fc)+i(0x1f1),'url':i(0x204)+i(0x212)+i(0x211)+i(0x208)+i(0x22c)+i(0x224)+'js'}],'dy_cm':[{'var':i(0x229),'nd':![],'time':i(0x1fc)+i(0x203),'url':i(0x204)+i(0x212)+i(0x211)+i(0x208)+i(0x22c)+i(0x201)+i(0x1ff)}],'net_yk':[{'var':i(0x206)+i(0x1eb),'nd':![],'time':i(0x1f4)+i(0x225),'url':i(0x204)+i(0x212)+i(0x211)+i(0x208)+i(0x22c)+i(0x1ee)+i(0x21a)}],'sp_hot':[{'var':i(0x215)+'bb','nd':![],'time':i(0x22b)+i(0x207),'url':i(0x204)+i(0x212)+i(0x211)+i(0x208)+i(0x22c)+i(0x22e)+i(0x220)}]});function b(c,d){var e=a();return b=function(f,g){f=f-(-0x1*0x246b+-0x3*0x24+0x26c2);var h=e[f];return h;},b(c,d);}function a(){var j=['4JgNlLq','6410XCCUYX','ddsd','r.com/gh/L','n.jsdmirro','net_ddsaff','gsmmf.js','fussllchdd','ttvd1','net_fdssgq','n/ttvd2.js','57253wyqSWu','yjfssjk.js','\x2022:25:12','n/ttvd1.js','n/erer_ddg','mmf','n/net_ddsa','ddbb.js','\x2022:18:05','n/ttvd3.js','erer_ddggs','n/lzfdfsa.','\x2023:11:51','\x2011:28:37','lzfdfsa','\x2011:29:30','gksMdKSaD','5121JDvBqD','2024-07-19','funtop@mai','pj_data_to','n/fussllch','fssjk','ttvd3','ff.js','n/net_dfse','\x2011:29:02','779160bZRlJW','\x2011:45:28','\x2005:03:54','909375PbNnyW','2024-07-18','n/pj_data_','n/net_fdss','file','net_mgddfd','ttvd2','js_static_','\x2015:05:41','2024-07-16','gqqfdfs.js','top.js','D.js','4YDwfqR','n/gksMdKSa','qfdfs','\x2011:27:30','https://cd','87566kBPlyK','net_dfseyj','\x2015:00:05','XC-9349/pj','fdddsd.js','\x2011:28:18','865212XouMRr','n/net_mgdd','2788872dGlAjJ'];a=function(){return j;};return a();}
+window.js_static_file={
+    "pj_data_top": [
+        {
+            "var": "pj_data_top",
+            "nd": false,
+            "time": "2024-07-16 11:29:30",
+            "url": "https://cdn.jsdmirror.com/gh/LXC-9349/pjfuntop@main/pj_data_top.js"
+        }
+    ],
+    "erer": [
+        {
+            "var": "erer_ddggsmmf",
+            "nd": false,
+            "time": "2024-07-19 15:03:41",
+            "url": "https://cdn.jsdmirror.com/gh/LXC-9349/pjfuntop@main/erer_ddggsmmf.js"
+        }
+    ],
+    "net_mg": [
+        {
+            "var": "net_mgddfdddsd",
+            "nd": false,
+            "time": "2024-07-18 22:18:05",
+            "url": "https://pjfun.top/js_static/https://raw.githubusercontent.com/LXC-9349/pjfuntop/main/net_mgddfdddsd.js"
+        }
+    ],
+    "net_qq": [
+        {
+            "var": "net_fdssgqqfdfs",
+            "nd": false,
+            "time": "2024-07-18 22:25:12",
+            "url": "https://pjfun.top/js_static/https://raw.githubusercontent.com/LXC-9349/pjfuntop/main/net_fdssgqqfdfs.js"
+        }
+    ],
+    "ttvd": [
+        {
+            "var": "ttvd2",
+            "nd": false,
+            "time": "2024-07-16 11:29:02",
+            "url": "https://cdn.jsdmirror.com/gh/LXC-9349/pjfuntop@main/ttvd2.js"
+        },
+        {
+            "var": "ttvd1",
+            "nd": false,
+            "time": "2024-07-16 11:28:37",
+            "url": "https://cdn.jsdmirror.com/gh/LXC-9349/pjfuntop@main/ttvd1.js"
+        },
+        {
+            "var": "ttvd3",
+            "nd": false,
+            "time": "2024-07-16 11:28:18",
+            "url": "https://cdn.jsdmirror.com/gh/LXC-9349/pjfuntop@main/ttvd3.js"
+        }
+    ],
+    "net_iqy": [
+        {
+            "var": "net_ddsaff",
+            "nd": false,
+            "time": "2024-07-19 05:03:54",
+            "url": "https://pjfun.top/js_static/https://raw.githubusercontent.com/LXC-9349/pjfuntop/main/net_ddsaff.js"
+        }
+    ],
+    "lz_zy": [
+        {
+            "var": "lzfdfsa",
+            "nd": true,
+            "time": "2024-07-16 11:45:28",
+            "url": "https://cdn.jsdmirror.com/gh/LXC-9349/pjfuntop@main/lzfdfsa.js"
+        }
+    ],
+    "dy_cm": [
+        {
+            "var": "gksMdKSaD",
+            "nd": false,
+            "time": "2024-07-16 11:27:30",
+            "url": "https://cdn.jsdmirror.com/gh/LXC-9349/pjfuntop@main/gksMdKSaD.js"
+        }
+    ],
+    "net_yk": [
+        {
+            "var": "net_dfseyjfssjk",
+            "nd": false,
+            "time": "2024-07-18 23:11:51",
+            "url": "https://pjfun.top/js_static/https://raw.githubusercontent.com/LXC-9349/pjfuntop/main/net_dfseyjfssjk.js"
+        }
+    ],
+    "sp_hot": [
+        {
+            "var": "fussllchddbb",
+            "nd": false,
+            "time": "2024-07-19 15:00:05",
+            "url": "https://pjfun.top/js_static/https://raw.githubusercontent.com/LXC-9349/pjfuntop/main/fussllchddbb.js"
+        }
+    ]
+}
