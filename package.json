@@ -1,0 +1,19 @@
+{
+  "name": "pj",
+  "version": "24-07-29",
+  "description": "this is pjfun.top js css static",
+  "main": "load.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon",
+  "license": "ISC",
+  "files": [
+    "**/*",
+    "!node_modules",
+    "!.gitignore",
+    "!package.json",
+    "!package-lock.json",
+    "!.github"
+  ]
+}
