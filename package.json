@@ -1,6 +1,6 @@
 {
 	"name":"pjjs",
-	"version":"0.0.2",
+	"version":"0.0.3",
 	"description":"this is pjfun.top js css static",
 	"main":"load.js",
 	"scripts":{
